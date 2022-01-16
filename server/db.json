@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "title": "11am meeting",
+      "pinned": false,
+      "memo": null,
+      "done": false,
+      "id": 1
+    },
+    {
+      "title": "Finish visual Design",
+      "pinned": false,
+      "memo": null,
+      "done": true,
+      "id": 2
+    },
+    {
+      "title": "Getting an invite for dribble",
+      "pinned": true,
+      "memo": "one of my goals in 2022",
+      "done": true,
+      "id": 3
+    },
+    {
+      "title": "Do research",
+      "pinned": false,
+      "memo": "E-book readers in IOS, Android",
+      "done": false,
+      "id": 4
+    },
+    {
+      "title": "Reading About Face 4",
+      "pinned": false,
+      "memo": null,
+      "done": false,
+      "id": 5
+    },
+    {
+      "title": "Do pilates",
+      "pinned": false,
+      "memo": null,
+      "done": false,
+      "id": 6
+    }
+  ]
+}
